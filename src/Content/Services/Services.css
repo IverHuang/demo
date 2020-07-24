@@ -1,0 +1,29 @@
+
+  @font-face {
+    font-family: services;
+    src: url(../../MainContent/000webfont.ttf);
+  }
+  
+  div{
+    font-family: services; 
+    font-size: 25px; 
+  }
+
+  .title{
+      color: white;
+      font-weight: bold;
+      font-size: 30px;
+      padding-top:10px;
+  }
+  .test{
+    font-family: services; 
+  }
+  .gc{
+    color:gold;
+  }
+  .sc{
+    color:silver;
+  }
+  .bc{
+    color: burlywood;
+  }

@@ -1,0 +1,11 @@
+#db{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+}
+
+.generals{
+  font-weight: bold;
+  color: silver;
+}

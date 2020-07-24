@@ -1,0 +1,8 @@
+.Text{
+  position: fixed;
+  top: 0;
+  font-size: 20px;
+  color:white;
+  font-weight: bold;
+  padding-top: 1.5rem;
+}

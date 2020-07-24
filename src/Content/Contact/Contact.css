@@ -1,0 +1,21 @@
+.text{
+    width:20%;
+}
+.padding{
+   padding-left: 25px; 
+}
+.buttontest{
+    padding-left: 25px;
+    padding-top: 20px;
+}
+
+.button:hover{opacity: 1}
+
+.groupcard{
+    width: 30%;
+background-repeat: no-repeat;
+  background-size: auto;
+  margin: 0 auto ; 
+   float: none;      
+}
+

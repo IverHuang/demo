@@ -1,0 +1,49 @@
+#bg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#cg {
+  height: 500px;
+  background-size: cover;
+   background-repeat: no-repeat;
+   opacity: 0.6;
+}
+
+#cg:hover {opacity: 1}
+
+#sg {
+  height: 500px;
+  background-size: cover;
+   background-repeat: no-repeat;
+   opacity: 0.6;
+}
+
+#sg:hover {opacity: 1}
+
+
+#brg{
+  height: 500px;
+  background-size: cover;
+   background-repeat: no-repeat;
+   opacity: 0.6;
+}
+
+#brg:hover {opacity: 1}
+
+
+
+.Card{
+padding-top: 150px;
+}
+
+.Text{
+  color: white;
+}
+
+
+.title{
+  font-size: 30px;
+  padding-top: 10em;
+}
